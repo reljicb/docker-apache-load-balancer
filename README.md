@@ -2,7 +2,7 @@ Apache 2.4 load balancer
 
 # Features
 
-- sticky sessions   
+- sticky sessions / session affinity
 - TLS secure connection with downstream services
 - TLS secure listening port (8443)
 
